@@ -62,5 +62,5 @@ An interactive Power BI dashboard designed to analyze **Zepto’s sales performa
 ## 👨‍💻 Author  
 
 Developed by **Mohammad Amanullah**  
-- 📧 [Your Email]  
-- 🔗 [LinkedIn Profile]  
+- 📧 amanullahmohammed402@gmail.com   
+- 🔗 https://www.linkedin.com/in/amanullah-mohammad/  

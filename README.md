@@ -45,3 +45,22 @@ An interactive Power BI dashboard designed to analyze **Zepto’s sales performa
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/zepto-sales-dashboard.git
+   ```
+2. Open the `.pbix` file in **Power BI Desktop**.  
+3. Explore the dashboard interactively using filters and KPIs.  
+
+---
+
+## 📈 Future Improvements  
+
+- Integration with **real-time Zepto API data** (if available).  
+- Predictive modeling for **demand forecasting**.  
+- Customer segmentation for **personalized marketing strategies**.  
+
+---
+
+## 👨‍💻 Author  
+
+Developed by **Mohammad Amanullah**  
+- 📧 [Your Email]  
+- 🔗 [LinkedIn Profile]  
